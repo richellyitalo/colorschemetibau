@@ -1,7 +1,7 @@
 # colorschemetibau
 Esquema de cores baseado no tema utilizado por JeffreyWay.
 
-Tema usado como base Laradawn.
+Utilizei o Laradawn com tema referência.
 
 <h3>Minhas configurações de tipografia</h3>
 <strong>Primary font:</strong> <em>Menlo</em>
